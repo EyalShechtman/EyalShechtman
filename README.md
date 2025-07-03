@@ -17,7 +17,7 @@
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/eyal‑shechtman) · [GitHub](https://github.com/EyalShechtman)
+[LinkedIn](https://www.linkedin.com/in/eyal-shechtman/) · [GitHub](https://github.com/EyalShechtman)
 
 ---
 
