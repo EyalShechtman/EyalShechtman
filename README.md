@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 I'm Eyal
 
-<!--
-**EyalShechtman/EyalShechtman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎓** University of Washington  
+**💼** @ Chewy | Seattle, WA  
+**📬** [LinkedIn](https://www.linkedin.com/in/eyal‑shechtman) · [Email](youremail@example.com)
+ 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm Working On
+
+- **open-ai-stylist** – AI stylist for fashion recommendations (⭐️58)
+- **YouTube_Toxic** – Toxic-comment detection tool (releasing soon)
+- **TBD** – Anything that pops in my mind 
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/eyal‑shechtman) · [GitHub](https://github.com/EyalShechtman)
+
+---
+
+`I'm either working hard or hardly working so reach out!`
