@@ -9,9 +9,8 @@
 
 ## 🔭 What I'm Working On
 
-- **open-ai-stylist** – AI stylist for fashion recommendations (⭐️58)
-- **YouTube_Toxic** – Toxic-comment detection tool (releasing soon)
-- **TBD** – Anything that pops in my mind 
+**![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=parsakhaz&repo=open-ai-stylist)**
+**![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=EyalShechtman&repo=YouTube_Toxic)**
 
 ---
 
