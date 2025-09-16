@@ -3,6 +3,7 @@
 **🎓** University of Washington  
 **💼** @ Chewy | Seattle, WA  
 **📬** [LinkedIn](https://www.linkedin.com/in/eyal-shechtman/) · [Email](eyal.shechtman@gmail.com)
+
 cooking something right now. coming soon...
 
 
