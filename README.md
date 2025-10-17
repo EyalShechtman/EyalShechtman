@@ -4,6 +4,7 @@
 **💼** @ Chewy | Seattle, WA
 
 4x hackathon winner
+
 **📬** [LinkedIn](https://www.linkedin.com/in/eyal-shechtman/) · [Email](eyal.shechtman@gmail.com)
 
 cooking something right now. coming soon...
