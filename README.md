@@ -20,7 +20,7 @@ www.pictur.ai 👀
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect With Me - open for cool opportunities 
 
 [LinkedIn](https://www.linkedin.com/in/eyal-shechtman/) · [GitHub](https://github.com/EyalShechtman)
 
