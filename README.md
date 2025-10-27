@@ -9,7 +9,7 @@
 
 cooking something right now. coming soon...
 
-www.pictur.ai 👀
+[www.pictur.ai](https://app.pictur.ai/) 👀
 
 ---
 
