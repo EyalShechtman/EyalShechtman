@@ -16,7 +16,7 @@ www.pictur.ai 👀
 ## 🔭 What I'm Working On
 
 **![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=parsakhaz&repo=open-ai-stylist)**
-**![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=parsakhaz&repo=open-ai-dress2impress)**
+**![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=parsakhaz&repo=open-ai-video-understanding)**
 
 ---
 
