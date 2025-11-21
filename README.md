@@ -11,6 +11,8 @@ cooking something right now. coming soon...
 
 [www.pictur.ai](https://app.pictur.ai/) 👀
 
+aspiring open source guy
+
 ---
 
 ## 🔭 What I'm Working On
