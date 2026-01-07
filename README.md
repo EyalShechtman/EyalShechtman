@@ -7,11 +7,9 @@
 
 **📬** [LinkedIn](https://www.linkedin.com/in/eyal-shechtman/) · [Email](eyal.shechtman@gmail.com)
 
-cooking something right now. coming soon...
-
 [www.pictur.ai](https://app.pictur.ai/) 👀
 
-aspiring open source guy
+aspiring open source guy & took december off to backpack in Europe. Coming back strong now🫡
 
 ---
 
