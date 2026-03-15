@@ -1,7 +1,7 @@
 # 👋 I'm Eyal
 
 **🎓** University of Washington  
-**💼** @ Chewy | Seattle, WA
+**💼** @ Arkero.ai | Seattle, WA
 
 4x hackathon winner
 
