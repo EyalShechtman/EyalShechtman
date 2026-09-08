@@ -9,7 +9,7 @@
 
 [www.pictur.ai](https://app.pictur.ai/) 👀
 
-aspiring open source guy & took december off to backpack in Europe. Coming back strong now🫡
+aspiring open source guy & working my ahh off at [Arkero](https://github.com/ArkeroAI). Coming back strong now🫡
 
 ---
 
