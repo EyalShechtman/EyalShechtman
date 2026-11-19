@@ -8,6 +8,7 @@
 **📬** [LinkedIn](https://www.linkedin.com/in/eyal-shechtman/) · [Email](eyal.shechtman@gmail.com)
 
 [www.pictur.ai](https://app.pictur.ai/) 👀
+[football Krillion](https://dailypanenka.com/)
 
 aspiring open source guy & working my ahh off at [Arkero](https://github.com/ArkeroAI). Coming back strong now🫡
 
